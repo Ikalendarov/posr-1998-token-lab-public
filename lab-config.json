@@ -1,0 +1,8 @@
+{
+  "organization": "cider-research-testing",
+  "private_repositories": [
+    "Ikalendarov/posr-1998-token-lab-private-a",
+    "Ikalendarov/posr-1998-token-lab-private-b"
+  ],
+  "public_repository": "Ikalendarov/posr-1998-token-lab-public"
+}
